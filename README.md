@@ -16,12 +16,12 @@ Open `http://127.0.0.1:3000`.
 `.env.local` contains the required keys. HydraDB credentials may be left blank for local demos; the app will continue with empty recall context.
 
 ```bash
-CHAT_API_BASE_URL=http://de3.bot-hosting.net:21007/kilwa-chatgpt
-IMAGE_API_BASE_URL=http://de3.bot-hosting.net:21007/kilwa-gpt-img
+CHAT_API_BASE_URL=
+IMAGE_API_BASE_URL=
 IMAGE_API_TIMEOUT_MS=240000
 HYDRADB_API_KEY=
 HYDRADB_BASE_URL=https://api.hydradb.com
-HYDRADB_TENANT_ID=hydra-db-mcp
+HYDRADB_TENANT_ID=
 HYDRADB_TIMEOUT_MS=10000
 ```
 
