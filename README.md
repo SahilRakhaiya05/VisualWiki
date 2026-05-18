@@ -1,5 +1,7 @@
 # VisualWiki
 
+<img width="1602" height="712" alt="VisualWiki" src="https://github.com/user-attachments/assets/6eac3009-c228-415b-9b0e-8a1daf9e99bf" />
+
 VisualWiki is an infinite AI-generated visual browser. Every page is a generated 16:9 image, and every click on that image opens a deeper generated visual page.
 
 The product idea is simple:
